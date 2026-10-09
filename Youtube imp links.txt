@@ -1,0 +1,60 @@
+Spring AI 
+
+https://www.youtube.com/watch?v=R8VBA_KtUo0
+
+Preparation
+
+Springboot Grpc
+https://www.youtube.com/watch?v=UbbEBUg-3XU&list=PLVz2XdJiJQxw0f6wXQCdWKabLdqSzGA0X&index=9
+
+SpBoot-microservices-temporal
+https://www.youtube.com/watch?v=zVfOa7z-Gdo
+
+
+apache kafka and kafka streams 
+https://www.youtube.com/watch?v=xGwzuz8F9k0&list=PLVz2XdJiJQxwpWGoNokohsSW2CysI6lDc
+
+System design 
+
+https://www.youtube.com/watch?v=OXlbB3kL_c8&list=PLVz2XdJiJQxwdR96gkPpylriWNXYpSuon
+
+Aws
+https://www.youtube.com/watch?v=KmsfUenqK4w
+
+AWS- spring
+https://www.youtube.com/watch?v=ydL5NSrWfAk
+
+AWS
+
+https://www.youtube.com/watch?v=2OHr0QnEkg4
+
+AWS- dveops -shellscript
+https://www.youtube.com/@MPrashant
+
+FDE
+https://www.youtube.com/watch?v=SFD22DT0wCI&list=PLWSlr9idVBc0&index=3
+
+Agentic Ai
+https://www.youtube.com/watch?v=rV3HJ4LEZ7k
+
+Machine learning https://www.youtube.com/watch?v=1L420xXpDTg
+AI- Channel 
+https://www.youtube.com/@SheryiansAI/playlists
+
+Good channel
+https://www.youtube.com/@shubhpatel_18/videos
+
+Design Patterns 
+https://www.youtube.com/watch?v=rpt8PpIPhJQ
+
+
+AI Complete one shot
+https://www.youtube.com/watch?v=bZxAKA69xqg
+
+best cheannel
+https://www.youtube.com/@ashishps_1/videos
+
+Sboot - aws-docker
+https://www.youtube.com/watch?v=BLlEgtp2_i8
+
+https://www.youtube.com/watch?v=42HujbYEtro&list=PLAZHf0fSXoc_ur6_zkQQlu2eVfBwSXtpU
